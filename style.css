@@ -8,8 +8,10 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: rgb(165, 203, 252);
 }
 
 .nav__link {
     text-decoration: none;
+    color: black;
 }
