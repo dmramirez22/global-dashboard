@@ -32,3 +32,22 @@ header .row {
     align-items: center;
     justify-content: space-between;
 }
+
+
+.header__descrption {
+    width: 40%;
+}
+
+.header__descrption--para{
+    margin: 0 32px;
+}
+
+.header__searchbars {
+    width: 100%;
+    max-width: 448px;
+    height: 68px;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+} 
