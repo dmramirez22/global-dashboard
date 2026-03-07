@@ -48,11 +48,13 @@ header .row {
     flex-direction: column;
     align-items: center;
     margin: 0 auto;
+    padding: 42px 0px 42px 0px
 }
 
 .header__description--para{
     width: 70%;
     margin: 0 24px;
+    padding: 24px 0px 0px 0px;
 }
 
 .header__searchbars {
