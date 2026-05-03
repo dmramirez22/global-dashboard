@@ -51,9 +51,10 @@ header .row {
     padding: 42px 0px 42px 0px
 }
 
-.header__description--para{
+.header__description--info{
     width: 70%;
-    margin: 0 24px;
+    margin: 0 auto;
+    text-align: center;
     padding: 24px 0px 0px 0px;
 }
 
@@ -66,6 +67,7 @@ header .row {
     justify-content: flex-end;
     align-items: center;
     margin: 0 auto;
+    padding: 24px 24px 24px 24px;
 } 
 
 .header__searchbar {
