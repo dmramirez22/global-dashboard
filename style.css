@@ -47,10 +47,13 @@ header .row {
     padding: 24px 0px 0px 0px;
 }
 
-.header__searchbar {
+.header__searchbars {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.header__description--info {
+align-items: center;
 }
 
 .graph {
